@@ -1,0 +1,12 @@
+[x] Arduino duemi sch
+[x] Arduino duemi footprint
+
+[ ] Relay Sch
+[ ] Relay Footprint
+
+[ ] Board Schematic
+[ ] Board .brd
+
+[ ] Gerbers
+
+[ ] Print & test
