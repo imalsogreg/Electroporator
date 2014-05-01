@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Wed 30 Apr 2014 08:33:15 PM EDT
+
+BeginCmp
+TimeStamp = /536185D8;
+Reference = High1;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5361883A;
+Reference = rCharge1;
+ValeurCmp = 1K Ohm;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /536182DD;
+Reference = rDischargeA1;
+ValeurCmp = 1K Ohm;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /536182ED;
+Reference = rDischargeB1;
+ValeurCmp = 33 Ohm;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53618737;
+Reference = rStimInd1;
+ValeurCmp = 1K Ohm;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /536183B6;
+Reference = StimCap1;
+ValeurCmp = 42 uF;
+IdModule  = CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53618728;
+Reference = stimIndicator1;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /536186B0;
+Reference = TweezerConn1;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535030F6;
+Reference = U1;
+ValeurCmp = ARDUINOUNOORDUEM;
+IdModule  = arduinoDuemilanove;
+EndCmp
+
+BeginCmp
+TimeStamp = /53616303;
+Reference = U2;
+ValeurCmp = RELAY;
+IdModule  = OUAZ-SS-105D;
+EndCmp
+
+EndListe
