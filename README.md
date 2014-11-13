@@ -1,9 +1,36 @@
 Electroporator
 ==============
 
-This is my electroporator. 
+This is an electroporation system you can build in-house.
 
- * it does electroporation
- * it does more
+Software
+--------
+
+Requires python >= 2.7 && < 3
+Run TODO
+
+**Installation**
+
+Ubuntu
+
+```
+sudo apt-get install python ipython python-numpy python-matplotlib
+```
+
+Mac
+```
+TODO
+```
+
+Windows
+```
+TODO
+```
+
  
-I want to publish this in [plosONE](http://www.plosone.org/)
+Hardware
+--------
+
+Kicad design files are in TODO, and the prints for boards are in TODO.zip. The latter is what you would send to OSH Park, Sunstone, etc, to print your own boards.
+
+More info, TODO
